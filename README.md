@@ -1,3 +1,19 @@
+<table>
+  <tr>
+
+    
+  <td align="center" width="200px">
+    
+![0660efe82fa3da42ed56eef013171835](https://github.com/gabrielsatoshi/gabrielsatoshi/assets/112598996/b2b76123-7ce6-4384-ba97-74c5007258f6)
+
+ </td>
+  </tr>
+</table>
+  
+
+
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Yo%2C+my+name+is+gabriel+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on [d0rkhub](https://github.com/gabrielsatoshi/d0rkhub) my personal project.
